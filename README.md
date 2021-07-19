@@ -1,4 +1,4 @@
-# Java Projects (<img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;)
+# Java Projects <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
 Some java projects made for treining. 
 
 <h3>👨‍💻 Used Technology</h3>
